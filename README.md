@@ -1,0 +1,2 @@
+# mmclassfication-CIFAR
+在mmclassfication下采用CIFAR-10数据集进行分类
